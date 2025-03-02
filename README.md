@@ -5,7 +5,7 @@ Jak używać
 
 - Klonuj repozytorium lub pobierz plik.
 - Uruchom hangman.py.
-- Zgadywanie liter za pomocą klawiatury.
+- Zgadywanie liter za pomocą prowadzania pojedynczych liter do konsoli.
 - Celem jest odgadnięcie całego słowa przed wyczerpaniem prób.
 
 Wymagania
