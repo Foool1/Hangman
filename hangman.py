@@ -10,9 +10,7 @@ def enter(word_list, word, live, used_letters):
         if letter == word[x]:
             word_list[x] = letter
             counter = counter + 1
-
     if counter == 0:
-
         return 0
 
 
@@ -33,12 +31,8 @@ word = random.choice(words)
 print(word)
 
 live = 10
-
-
 word_list = []
 used_letters = []
-
-
 for x in range (len(word)):
     word_list.append("_")
 
